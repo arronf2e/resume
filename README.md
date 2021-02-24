@@ -14,25 +14,17 @@
 
 ## 技术能力
 
-专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
+专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。熟悉原生JavaScript和JavaScript类库的使用。
 
-* 掌握的JavaScript类库：jQuery、Prototype
-* 掌握的JavaScript框架：BackBone、Vuejs、Angular.js、React.js
-* 掌握的CSS预编译器：LessCss、Sass
-* 掌握JavaScript模块加载器：RequireJS、Browserify
+* 掌握的JavaScript框架：Vuejs、React.js
+* 掌握的CSS预编译器：Less
 * 掌握项目构建工具：Grunt、Gulp
-* 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握前端测试框架以及工具：Jasmine、Mocha
-* 掌握基本后端开发：NodeJS、Python
-* 掌握web相关技术：MongoDB、CoffeeScript、SEO、Socket.io、Express、Tornado等
+* 掌握项目管理和协同工具的使用：Git
+* 了解基本后端开发：NodeJS
 
-##个人经历
+##工作经历
 
-* 2012年进入中山大学学习
-* 大一开始接触Web
-* 大二开始疯狂投入web学习
-* 大二下开始加入创业团队，系益米通服务有限公司的微信前端工程师
-* 大二暑假在广州时代财富有限公司上班实习，参与建设银行网上银行前端原型开发
+* 2015.08-2016.09   开业啦（上海）网络科技有限公司   前端开发
 
 ## 个人作品
 
